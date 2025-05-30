@@ -1,0 +1,29 @@
+.container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.title {
+  margin-bottom: 20px;
+  color: #333;
+  text-align: center;
+}
+
+.error {
+  color: #e74c3c;
+  text-align: center;
+  padding: 20px;
+  background-color: #fadbd8;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+.noMovies {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  margin: 20px 0;
+  color: #6c757d;
+}
